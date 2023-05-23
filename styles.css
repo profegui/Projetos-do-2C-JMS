@@ -2,3 +2,4 @@ body{background-color: blueviolet;}
 body{background-image: linear-gradient(to right, blueviolet, white);}
 body{text-align: center;}
 header{background-color: black;}
+header{margin: 1em}
